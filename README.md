@@ -29,3 +29,11 @@ On Unix / Linux:
 2. Install the Google ADK package via `pip` by running the following command in a virtual environment: `pip install google-adk`
 
 3. Run the `.ipynb` file cell by cell, waiting for each cell to complete running before running the next. <= CHANGE FILE NAME HERE
+
+On Windows:
+
+1. Add the Gemini API key to the Environment variables (searchable in the control panel).
+
+2. Install the Google ADK package via `pip` by running the following command in a virtual environment: `pip install google-adk`
+
+3. Run the `.ipynb` file cell by cell, waiting for each cell to complete running before running the next. <= CHANGE FILE NAME HERE
