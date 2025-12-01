@@ -17,3 +17,15 @@ Architecture:
 The specialist `fitness_trainer_agent` and `nutritionist_agent` agents are run in parallel. Alongside an aggregator agent `aggregator_agent` that is used to combine the fitness and nutritionist advice into a single wellness plan, with a focus on the synergy between fitness and nutrition advice, the parallel agent and aggregator agent are run in sequence via a sequential agent `sequential_wellness` which takes the output from the fitness training and nutritionist agents first, and then uses said output to create an aggregated wellness plan.
 
 The root agent, named the `WellnessCoordinatorAgent`, chooses dynamically when to run this `sequential_wellness` agent, alongside an `intake_agent`, which is used to craft questions to obtain necessary personal information pertinent to customizing the user's wellness plans. 
+
+---
+
+Setup Instructions:
+
+On Unix / Linux:
+
+1. Insert one's Gemini API key into the `.zshrc` or `.bashrc`, e.g. `export GOOGLE_API_KEY=insert_key_here`.
+
+2. Install the Google ADK package via `pip` by running the following command in a virtual environment: `pip install google-adk`
+
+3. Run the `.ipynb` file cell by cell, waiting for each cell to complete running before running the next. <= CHANGE FILE NAME HERE
