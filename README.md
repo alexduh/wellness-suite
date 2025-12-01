@@ -4,11 +4,12 @@ High level overview:
 
 1. Track: Concierge Agents
 
-2. Problem and solution pitch: Hiring a personal trainer, let alone a suite of experts dedicated to improving one's wellness, is expensive both monetarily and in terms of time spent interacting with said experts. We built an agentic wellness suite of agents (e.g. fitness trainer agent, nutritionist agent, etc.) to help users achieve better wellness outcomes.
+2. Problem: Despite the explosion of fitness apps and wearable devices, many people struggle to maintain consistent exercise routines and achieve long-term health coals. Hiring a personal trainer, let alone a suite of experts dedicated to improving one's wellness, is expensive both monetarily and in terms of time spent interacting with said experts. 
+Solution: We built an agentic wellness suite of agents (e.g. fitness trainer agent, nutritionist agent, etc.) to help users achieve better wellness outcomes.
 
 3. Published: https://github.com/alexduh/FitnessAgent
 
-4. This agent helped me restart fitness routines and habits I have struggled to maintain since finishing graduate school.
+4. Our suite of wellness agents can accomplish the functions of personal trainers, nutritionists, and health coaches, but are accessible at all hours, more affordable, and more effective at taking user data and creating personalized plans and feedback.
 
 ---
 
