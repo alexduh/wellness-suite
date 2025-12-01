@@ -1,3 +1,0 @@
-Despite the explosion of fitness apps and wearable devices, many people struggle to maintain consistent exercise routines and achieve long-term health coals. Current solutions often provide generic plans, fragmented data, or lack real-time adaptability.
-
-A Fitness Agent serves a similar function to Fitness Coaches, but are available at all times, much cheaper, and more effective at taking user data and creating personalized plans and feedback.
